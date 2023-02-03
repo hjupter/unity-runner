@@ -1,4 +1,4 @@
-FROM unityci/editor:ubuntu-2021.3.17f1-mac-mono-1.0.1
+FROM unityci/editor:ubuntu-2021.3.17f1-base-1.0.1
 
 LABEL "com.github.actions.name"="Unity Runner"
 LABEL "com.github.actions.description"="Run unity any Unity project."
